@@ -24,3 +24,12 @@ You can also find us on #buildroot on OFTC IRC.
 
 If you would like to contribute patches, please read
 https://buildroot.org/manual.html#submitting-patches
+
+
+To Build rpi4  
+
+ make raspberrypi4_defconfig   
+ 
+ make  
+ 
+ 
